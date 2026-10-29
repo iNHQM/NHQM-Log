@@ -1,0 +1,30 @@
+{
+  "token": "",
+  "guildId": "",
+  "footer": "NHQM",
+  "logs": {
+    "members": "",
+    "messages": "",
+    "voice": "",
+    "moderation": "",
+    "roles": "",
+    "channels": "",
+    "invites": "",
+    "reactions": ""
+  },
+  "features": {
+    "voiceSnapshots": true,
+    "thumbnails": true,
+    "auditLogs": true
+  },
+  "colors": {
+    "members": "#b92dc7",
+    "messages": "#19815d",
+    "voice": "#278f95",
+    "moderation": "#b61c23",
+    "roles": "#aaa7a7",
+    "channels": "#8d879e",
+    "invites": "#25764e",
+    "reactions": "#ffffff"
+  }
+}
